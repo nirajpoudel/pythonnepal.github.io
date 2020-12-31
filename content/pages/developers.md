@@ -77,6 +77,9 @@ Maintain the list in alphabetical order
 - **Narayan Kandel**  
 [Email](mailto:npk.and@gmail.com) | [Github](https://github.com/nkandel) | [Linkedin](https://www.linkedin.com/in/narayankandel/)
 
+- **Niraj**  
+[Email](nirajpoudel1818@gmail.com) | [Github](https://github.com/nirajpoudel18) | [Linkedin](https://www.linkedin.com/in/nj18/)
+
 - **Nischal Lal Shrestha**  
 [Email](mailto:hi@nischal.info.np) | [Github](https://github.com/theonlyNischal) | [Linkedin](https://www.linkedin.com/in/theonlyNischal/) | [Nischal's Website](https://nischal.info.np/) | [Facebook](https://facebook.com/theonlyNischal/)
 
